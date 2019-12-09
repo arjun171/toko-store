@@ -1,0 +1,21 @@
+{
+  "name": "toko-astore",
+  "version": "0.0.0",
+  "description": "abdullahsherazi/Functional-Shopping-Cart-React-Native @ Mar 20, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "firebase": "^5.8.5",
+    "native-base": "^2.12.1",
+    "react-navigation": "^3.3.2",
+    "react-native-paper": "^2.13.0",
+    "react-navigation-material-bottom-tabs": "^1.0.0"
+  }
+}
